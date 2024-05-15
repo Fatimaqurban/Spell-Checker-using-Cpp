@@ -11,7 +11,7 @@ A simple spell checker program implemented in C++ using standard library feature
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
     ```
-    git clone [https://github.com/fatimaqurban/spell-checker.git](https://github.com/Fatimaqurban/Spell-Checker-using-Cpp.git)
+    git clone https://github.com/Fatimaqurban/Spell-Checker-using-Cpp.git
     ```
 
 2. **Compile the Program**: Compile the program using a C++ compiler. For example:
